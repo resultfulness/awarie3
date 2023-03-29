@@ -1,6 +1,6 @@
 import { error } from "@sveltejs/kit";
 
-const api_url = "http://localhost:3000";
+const api_url = "https://awarie-express.vercel.app";
 
 async function send(
   method: string,
