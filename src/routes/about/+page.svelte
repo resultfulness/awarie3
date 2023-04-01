@@ -17,7 +17,7 @@
       <hr />
 
       <main>
-        <a href="https://github.com/resultfulness/awarie">
+        <a href="https://github.com/resultfulness/awarie3">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="64"
